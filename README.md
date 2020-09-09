@@ -1,2 +1,1 @@
-# custom_arm_CM
-Hardware register abstraction for ARM Cortex M processors
+# custom_arm_Hardware register abstraction for AMRIT 
